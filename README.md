@@ -40,7 +40,7 @@ The dataset was split into training and testing sets (typically 80/20 split).
 Model performance was evaluated using accuracy, precision, recall, and F1-score.
 
 📈 Results
-The best performing model achieved an accuracy of .
+The best performing model achieved an accuracy of 0.9576.
 
 Confusion matrix and classification report were generated to analyze false positives/negatives.
 
